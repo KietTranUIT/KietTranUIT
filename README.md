@@ -11,7 +11,7 @@
 ### 👋 Hi, I'm Trần Quang Kiệt
 🔹 SOC Tier 1 Analys\
 🔹 Passionate about threat detection, log analysis, and improving security posture\
-🔹 My hobbies are coding, playing ping pong, playing games 
+🔹 My hobbies are coding, playing ping pong, playing games\
 🔹 I'm studying at University Of Information Technology-UIT TP-HCM 
 
 ### 🛠 Skills & Tools
